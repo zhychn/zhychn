@@ -18,3 +18,8 @@
 <p align="left">
 <a href="https://litingchu.cn" target="blank"><img align="center" src="https://github.com/zhouhongyucs/zhouhongyucs/blob/main/assets/img/litingchu_logo.svg" alt="" height="64" width="120" /></a>
 </p>
+
+# Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhouhongyucs)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouhongyucs&show_icons=true)
