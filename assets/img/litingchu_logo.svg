@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100" height="64" viewBox="0 0 100 64">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 32px;
+        text-anchor: middle;
+        font-family: QIJI;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <text id="荔挺出_" data-name="荔挺出。" class="cls-1" x="50" y="41"><tspan x="50">荔挺出<tspan class="cls-2">。</tspan></tspan></text>
+</svg>
