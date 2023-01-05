@@ -19,7 +19,11 @@
 <a href="https://litingchu.cn" target="blank"><img align="center" src="https://github.com/zhouhongyucs/zhouhongyucs/blob/main/assets/img/litingchu_logo.svg" alt="" height="64" width="120" /></a>
 </p>
 
-# Stats
-
-[![Zhou HongYu's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhouhongyucs&ring=DD0000&fire=DD0000&currStreakLabel=DD0000)](https://git.io/streak-stats)
-![Zhou HongYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouhongyucs&show_icons=true&title_color=FF0000&icon_color=FF0000)
+# Others
+### IDEs & Editors
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
