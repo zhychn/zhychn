@@ -16,5 +16,5 @@
 
 # Contact with me
 <p align="left">
-<a href="https://litingchu.cn" target="blank"><img align="center" src="https://github.com/zhouhongyucs/zhouhongyucs/blob/main/assets/img/litingchu_logo.svg" alt="" height="120" width="200" /></a>
+<a href="https://litingchu.cn" target="blank"><img align="center" src="https://github.com/zhouhongyucs/zhouhongyucs/blob/main/assets/img/litingchu_logo.svg" alt="" height="64" width="120" /></a>
 </p>
