@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="120" viewBox="0 0 200 120">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 72px;
+        text-anchor: middle;
+        font-family: QIJIC;
+      }
+
+      .cls-2 {
+        fill: red;
+      }
+    </style>
+  </defs>
+  <text id="欢迎_" data-name="欢迎。" class="cls-1" x="102" y="79.667"><tspan x="102">欢迎<tspan class="cls-2">。</tspan></tspan></text>
+</svg>
