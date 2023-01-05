@@ -21,5 +21,5 @@
 
 # Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zhouhongyucs)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouhongyucs&show_icons=true)
+[![Zhou HongYu's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhouhongyucs&ring=DD0000&fire=DD0000&currStreakLabel=DD0000)](https://git.io/streak-stats)
+![Zhou HongYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhouhongyucs&show_icons=true&title_color=FF0000&icon_color=FF0000)
