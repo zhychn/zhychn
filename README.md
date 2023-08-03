@@ -1,7 +1,5 @@
 **<div align=center>![Welcome](https://cdn.jsdelivr.net/gh/zhouhongyucs/zhouhongyucs@main/assets/img/welcome.svg)</div>**
 
-[![Zhou HongYu's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=zhouhongyucs&theme=github-light)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 # Hello, this is Zhou HongYu.
 
 **I am currently a student of *Cognitive Science* majoring in *Quantum Computing and Artificial Intelligence*.**
