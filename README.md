@@ -2,7 +2,7 @@
 
 # Hello, this is Zhou HongYu.
 
-**I am currently a student of *Cognitive Science* majoring in *Quantum Computing and Artificial Intelligence*.**
+**I am currently a student of *Cognitive Science*.**
 
 **Next, I will study in *Computer Science*.**
 
