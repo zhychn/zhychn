@@ -2,4 +2,4 @@
 
 **Hello, this is Zhou HongYu.**
 
-**Currently I am an undergraduate student majoring in *cognitive science*.**
+**Currently I am an undergraduate student majoring in *Cognitive Science*.**
